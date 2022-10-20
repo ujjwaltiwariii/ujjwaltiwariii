@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am a software engineer with passion to learn more and more<br>I am currently learning flutter app dev.<br>stay positive..
+Hi I am Ujjwal Tiwari, a passionate software engineer with passion to learn more and more<br>I am currently learning flutter app dev.<br>stay positive..
 
 
 ## 🌐 Socials:
