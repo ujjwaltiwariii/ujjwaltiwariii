@@ -15,7 +15,7 @@ Hi I am Ujjwal Tiwari, a passionate software engineer with passion to learn more
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ujjwaltiwariii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quotes to boost your day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
